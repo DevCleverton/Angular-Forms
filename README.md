@@ -6,7 +6,7 @@
 Os Arrays nos fornecem uma maneira de gerenciar campos dinamicamente, o que significa que podemos adicionar ou remover campos instantaneamente. Grupos de formulários e matrizes de formulários são apenas maneiras de gerenciar campos.
 
 
-![Angular Form Array]()
+![Angular Form Array](https://raw.githubusercontent.com/DevCleverton/Angular-Forms/main/array.PNG)
 
 interactive playground  Angular Form Arrays.
 
