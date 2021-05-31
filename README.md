@@ -29,4 +29,4 @@ npm install -g @angular/cli
 npm install -g node-modules
 
 Follow Me:
-| [GitHub](https://github.com/DevCleverton)
+| [GitHub Cleverton](https://github.com/DevCleverton)
