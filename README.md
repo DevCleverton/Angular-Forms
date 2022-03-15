@@ -16,17 +16,14 @@ interactive playground  Angular Form Arrays.
 1. Install the dependencies: `npm install`
 1. Run the application using the command: `npm run start`
 
-case-Dependencias
+Dependencias
 node-modules-cli
 Node.js module and cli tool for searching node-modules.com
 
-To install the Angular CLI, open a terminal window and run the following command:
-
-content_copy
-npm install -g @angular/cli
 
 
-npm install -g node-modules
+
+
 
 Follow Me:
 | [GitHub Cleverton](https://github.com/DevCleverton)
